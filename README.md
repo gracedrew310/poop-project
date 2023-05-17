@@ -11,8 +11,6 @@ Changes in their microbiome were tracked, as well as metrics that scale childhoo
 
 Fecal swabs were collected by swabbing used toilet paper and occasionally testing the entire stool. Control groups were set up in twenty people to track normal temporal gut microbiome variation. Eighteen people received treatment. 
 
-Coding Steps
-
 ## This command copies fasta to home directory and changes commands
 cp /tmp/gen711_project_data/fastp-single.sh ~/fastp-single.sh
 chmod +x ~/fastp-single.sh
