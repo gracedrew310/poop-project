@@ -1,9 +1,18 @@
 ## GEN 711 project 
 Fecal Microbiota Transplant
+
 Sophie Marek, Grace Drew, Casey Baumann 
 
 
+## Methods
+Children under the age of 18 with autism and gastrointestinal disorders were treated with fecal microbiota transplant to try and reduce the severity of their behavioral and gastrointestinal symptoms. 
+
+Changes in their microbiome were tracked, as well as metrics that scale childhood autism, such as Parent Global Impressions-III (PGI-III) & Childhood Autism Rating Scale (CARS). Their gastrointestinal symptoms were tracked using GSRS for eighteen weeks.
+
+Fecal swabs were collected by swabbing used toilet paper and occasionally testing the entire stool. Control groups were set up in twenty people to track normal temporal gut microbiome variation. Eighteen people received treatment. 
+
 Coding Steps
+
 ## This command copies fasta to home directory and changes commands
 cp /tmp/gen711_project_data/fastp-single.sh ~/fastp-single.sh
 chmod +x ~/fastp-single.sh
